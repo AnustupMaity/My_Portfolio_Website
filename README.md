@@ -1,6 +1,9 @@
 [![Portfolio Demo](./preview.gif)](https://anustupmaity.github.io/AnustupPortfolio/)
+
 ## 🌐 Live Portfolio  
 🔗 https://anustupmaity.github.io/AnustupPortfolio/
+
+
 
 # 🚀 Anustup Maity – Portfolio
 
