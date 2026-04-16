@@ -11,18 +11,18 @@
 **Data Science Enthusiast • Full Stack Developer • Tech Explorer**
 
 - Welcome to my personal portfolio website!  
--- I build, break, and rebuild things on the web.  
---- Obsessed with AI, curious about everything!!  
----- Always experimenting with new tech.
+- I build, break, and rebuild things on the web.  
+- Obsessed with AI, curious about everything!!  
+- Always experimenting with new tech.
 
 ---
 
 ## ⚡ About Me  
 - 🎓 B.Tech from NIT Durgapur  
--- 🧠 Into AI, LLMs, and intelligent systems  
---- 💻 Love building full-stack apps that actually solve things  
----- 🧪 Constantly exploring and playing with new technologies  
------ 🚀 I code, ship, iterate… repeat.
+- 🧠 Into AI, LLMs, and intelligent systems  
+- 💻 Love building full-stack apps that actually solve things  
+- 🧪 Constantly exploring and playing with new technologies  
+- 🚀 I code, ship, iterate… repeat.
 
 ---
 
@@ -30,9 +30,9 @@
 
 ### 🔥 Featured Projects  
 - **Latexify** → AI-powered LaTeX generation  
--- **PharmaAgenticAI** → Multi-agent system for pharma workflows  
--- **Parking App** → Smart parking solution  
-......and many more 
+- **PharmaAgenticAI** → Multi-agent system for pharma workflows  
+- **Parking App** → Smart parking solution  
+....and many more 
 
 👉 Check them out live on the portfolio.
 
