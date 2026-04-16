@@ -1,18 +1,15 @@
+[![Portfolio Demo](./preview.gif)](https://anustupmaity.github.io/AnustupPortfolio/)
+
+
 # 🚀 Anustup Maity – Portfolio
 
 **Data Science Enthusiast • Full Stack Developer • Tech Explorer**
 
--Welcome to my personal portfolio website!  
---I build, break, and rebuild things on the web.  
----Obsessed with AI, curious about everything!!  
-----Always experimenting with new tech.
+- Welcome to my personal portfolio website!  
+-- I build, break, and rebuild things on the web.  
+--- Obsessed with AI, curious about everything!!  
+---- Always experimenting with new tech.
 
----
-
-## 🎥 Live Preview
-[![Portfolio Demo](./preview.gif)](https://anustupmaity.github.io/AnustupPortfolio/)
-
----
 
 ## 🌐 Live Portfolio  
 🔗 https://anustupmaity.github.io/AnustupPortfolio/
