@@ -1,13 +1,11 @@
 # 🚀 Anustup Maity – Portfolio
 
-## 🚀 Anustup Maity  
 **Data Science Enthusiast • Full Stack Developer • Tech Explorer**
 
 Welcome to my personal portfolio website!  
 I build, break, and rebuild things on the web.  
-Obsessed with AI, curious about everything, and always experimenting with new tech.
-
-This repository contains links and information about my projects, skills, and work.
+Obsessed with AI, curious about everything!!
+Always experimenting with new tech.
 
 ---
 
