@@ -4,8 +4,13 @@
 
 Welcome to my personal portfolio website!  
 I build, break, and rebuild things on the web.  
-Obsessed with AI, curious about everything!!
+Obsessed with AI, curious about everything!!  
 Always experimenting with new tech.
+
+---
+
+## 🎥 Live Preview
+![Portfolio Demo](./preview.gif)
 
 ---
 
