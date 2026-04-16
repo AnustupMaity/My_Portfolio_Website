@@ -1,5 +1,6 @@
 [![Portfolio Demo](./preview.gif)](https://anustupmaity.github.io/AnustupPortfolio/)
-
+## 🌐 Live Portfolio  
+🔗 https://anustupmaity.github.io/AnustupPortfolio/
 
 # 🚀 Anustup Maity – Portfolio
 
@@ -9,10 +10,6 @@
 -- I build, break, and rebuild things on the web.  
 --- Obsessed with AI, curious about everything!!  
 ---- Always experimenting with new tech.
-
-
-## 🌐 Live Portfolio  
-🔗 https://anustupmaity.github.io/AnustupPortfolio/
 
 ---
 
